@@ -9,7 +9,7 @@
 This is a userbot made for telegram. I made this userbot with help of all other userbots available in telegram. All credits goes to its Respective Owners....
 
 This is the one and only official LEGEND BOT Userbot made by [@LEGENDX22](https://t.me/LEGENDX22) Also join support channel and group :- https://t.me/teamishere Enjoy Your Bot!!💝
-[![LEGEND BOT logo](https://telegra.ph/file/a44f1363bddbba84a2b98.jpg)](https://t.me/teamishere)
+[![FREE & PAID BOT](https://t.me/teamishere)]
 
 ## STATUS OF THIS BOTS 
 <p align="left"><a href="https://github.com/legendx22/LEGEND-BOT/network/members"><img src="https://img.shields.io/github/forks/legendx22/LEGEND-BOT?label=Forks&logoColor=Silver&style=social"></a><p align="left"><a href="https://github.com/legendx22/LEGEND-BOT/stargazers"><img src="https://img.shields.io/github/stars/legendx22/LEGEND-BOT?logoColor=Blue&style=social"></a><p align="left"><a href="https://github.com/legendx22/LEGEND-BOT"><img src="https://github-readme-stats.vercel.app/api/pin?username=legendx22&show_icons=true&theme=meta&hide_border=true&repo=legendx22/LEGEND-BOT"></a><p align="left"><a href="https://github.com/legendx22/LEGEND-BOT"><img src="https://img.shields.io/github/last-commit/legendx22/LEGEND-BOT?style=plastic"></a>
@@ -26,7 +26,7 @@ This is the one and only official LEGEND BOT Userbot made by [@LEGENDX22](https:
 
 ### The Easy Way
 
-<a href="https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2Flegendx22%2FLEGEND-BOT&template=https%3A%2F%2Fgithub.com%2Flegendx22%2FLEGEND-BOT" rel="nofollow" style="background-color: initial; box-sizing: border-box; color: #0366d6; text-decoration-line: none;"><img alt="Deploy" data-canonical-src="https://www.herokucdn.com/deploy/button.svg" src="https://camo.githubusercontent.com/83b0e95b38892b49184e07ad572c94c8038323fb/68747470733a2f2f7777772e6865726f6b7563646e2e636f6d2f6465706c6f792f627574746f6e2e737667" style="border-style: none; box-sizing: initial; max-width: 100%;" /></a></div>
+<a href="https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2FTeamLEGENDX%2FFREEPAIDBOT&template=https%3A%2F%2Fgithub.com%2FTeamLEGENDX%2FFREEPAIDBOT" rel="nofollow" style="background-color: initial; box-sizing: border-box; color: #0366d6; text-decoration-line: none;"><img alt="Deploy" data-canonical-src="https://www.herokucdn.com/deploy/button.svg" src="https://camo.githubusercontent.com/83b0e95b38892b49184e07ad572c94c8038323fb/68747470733a2f2f7777772e6865726f6b7563646e2e636f6d2f6465706c6f792f627574746f6e2e737667" style="border-style: none; box-sizing: initial; max-width: 100%;" /></a></div>
 
 # Credits👀
 ### • [LEGEND BOT](https://github.com/TeamLEGENDX/LegendBOT)
