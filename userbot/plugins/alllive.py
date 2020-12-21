@@ -22,7 +22,7 @@ pm_caption += "✘ ΔβØỮŦ Μ¥ Ş¥ŞŦ€Μ ✘\n\n"
 pm_caption += "➾ **𝐓𝐄𝐋𝐄𝐓𝐇𝐎𝐍**  ➣ 𝟏.𝟏𝟕.𝟓\n"
 pm_caption += "➾ **𝐒𝐔𝐏𝐏𝐎𝐑𝐓 ** ➣ [𝐉𝐎𝐈𝐍](https://t.me/FREEPAIDTRICKSUSERBOT)\n"
 pm_caption += "➾ **𝐒𝐎𝐂𝐈𝐀𝐋  **  ➣ [𝐉𝐎𝐈𝐍](https://t.me/FREEPAIDTRICKS1)\n"
-pm_caption += "➾ **YASH** ➣ [⚡𝐒𝐀𝐌𝐄𝐄𝐑⚡](t.me/yashkrmakhija)\n" 
+pm_caption += "➾ **OWNER** ➣ [⚡YASH⚡](t.me/yashkrmakhija)\n" 
 
 pm_caption += " \n\n"
 pm_caption += "[✨ deploy your FREE & PAID 1.0 ✨](https://github.com/TeamLEGENDX/FREEPAIDBOT)"
