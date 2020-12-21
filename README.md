@@ -5,7 +5,7 @@
 [![Contact Me](https://img.shields.io/badge/Telegram-Contact%20Me-informational)](https://t.me/legendx22)
 
 
-# LEGEND BOT
+# FREE PAID BOT
 This is a userbot made for telegram. I made this userbot with help of all other userbots available in telegram. All credits goes to its Respective Owners....
 
 This is the one and only official LEGEND BOT Userbot made by [@LEGENDX22](https://t.me/LEGENDX22) Also join support channel and group :- https://t.me/teamishere Enjoy Your Bot!!💝
